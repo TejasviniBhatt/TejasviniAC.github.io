@@ -1,13 +1,10 @@
 ---
 # Display name
-title: 吳健雄
-
-# Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+title: Tejasvini Bhatt
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Tejasvini
+last_name: Bhatt
 
 # Status emoji
 status:
@@ -17,15 +14,15 @@ status:
 superuser: true
 
 # Highlight the author in author lists? (true/false)
-highlight_name: true
+# highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Student at the University of Tübingen
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Eberhard Karls University of Tübingen
+    url: https://uni-tuebingen.de/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -47,9 +44,9 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - International Economics
+  - Finance
+  - Computational Economics
 
 education:
   - area: PhD Artificial Intelligence
